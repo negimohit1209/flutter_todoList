@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'ui/welcome.dart';
+import 'ui/home.dart';
 
 void main() {
-  runApp(MaterialApp(title: "Welcome App", home: Welcome()));
+  runApp(MaterialApp(title: "Layouts", home: Home()));
 }
 
 
